@@ -1,22 +1,26 @@
 ## Yauheni Antanovich
 ### **Contacts**
-|**Telephone number:**| +37529XXXXXXX| 
-|:----------------:|:---------------:| 
-|**E-mail:**       |  &nbsp;  my@gmail.com|
-|**GitHub:** |&nbsp;  https://github.com/aevgeni/|
-|**Discord:**  |&nbsp; Evgeniy#3745|  
+**Telephone number:** &nbsp; +37529XXXXXXX   
+**E-mail:** &nbsp;  my@gmail.com  
+**GitHub:** &nbsp;  https://github.com/aevgeni/  
+**Discord:** &nbsp; Evgeniy#3745  
   
 ***
+
 ### **Summary**  
 Novice frontend-developer with technical education. Base knowledge of HTML, CSS, JavaScript.  
+
 ***
 
 ### **Skills**  
 **Programming languages and technologies:** JavaScript, HTML, CSS, PHP  
 **Libraries:** bootstrap  
 **Tools:** GIT, VS Code  
+
 ***
+
 ### **Developing experience**
+
 **Freeform Projects on Codecademy:**  
 - Fashion Blog  
 - Wine Festival Schedule  
@@ -24,12 +28,14 @@ Novice frontend-developer with technical education. Base knowledge of HTML, CSS,
 - CSS Grid: Architecture Blog  
 - Paint Store  
 - Broadway  
+
 ***
+
 ### **Education**
 **Courses at the htmlAcademy and Codecademy:**  
-1. Introduction to HTML  
-2. Learn CSS  
-3. Introduction To JavaScript  
+* Introduction to HTML  
+* Learn CSS  
+* Introduction To JavaScript  
 
 **[The Rolling Scopes School:](https://school.rollingscopes.com/)**  &nbsp; *02.2019 – Present*
 
