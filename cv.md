@@ -1,35 +1,36 @@
 ## Yauheni Antanovich
 ### **Contacts**
-Telephone number: +37529XXXXXXX  
-E-mail: my@gmail.com  
-GitHub - https://github.com/aevgeni/  
-Discord - Evgeniy#3745  
-Summary  
+|**Telephone number:**| +37529XXXXXXX| 
+|:----------------:|:---------------:| 
+|**E-mail:**       |  &nbsp;  my@gmail.com|
+|**GitHub:** |&nbsp;  https://github.com/aevgeni/|
+|**Discord:**  |&nbsp; Evgeniy#3745|  
+  
+***
+### **Summary**  
 Novice frontend-developer with technical education. Base knowledge of HTML, CSS, JavaScript.  
+***
 
-Skills  
+### **Skills**  
+**Programming languages and technologies:** JavaScript, HTML, CSS, PHP  
+**Libraries:** bootstrap  
+**Tools:** GIT, VS Code  
+***
+### **Developing experience**
+**Freeform Projects on Codecademy:**  
+- Fashion Blog  
+- Wine Festival Schedule  
+- Form a Story  
+- CSS Grid: Architecture Blog  
+- Paint Store  
+- Broadway  
+***
+### **Education**
+**Courses at the htmlAcademy and Codecademy:**  
+1. Introduction to HTML  
+2. Learn CSS  
+3. Introduction To JavaScript  
 
-Programming languages and technologies: JavaScript, HTML, CSS, PHP  
-Libraries: bootstrap  
-Tools: GIT, VS Code  
+**[The Rolling Scopes School:](https://school.rollingscopes.com/)**  &nbsp; *02.2019 – Present*
 
-Developing experience
-
-Freeform Projects on Codecademy  
-Fashion Blog  
-Wine Festival Schedule  
-Form a Story  
-CSS Grid: Architecture Blog  
-Paint Store  
-Broadway  
-
-Education
-
-Courses at the htmlAcademy and Codecademy:  
-Introduction to HTML  
-Learn CSS  
-Introduction To JavaScript  
-
-The Rolling Scopes School (https://school.rollingscopes.com/)  02.2019 – Present
-
-English level: A2 - Pre-Intermediate. I practice English in LinguaLeo and Duolingo.
+**English level:** A2 - Pre-Intermediate. I practice English in LinguaLeo and Duolingo.
